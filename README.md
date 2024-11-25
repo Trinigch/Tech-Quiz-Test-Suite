@@ -24,8 +24,8 @@ npm install
 
 To start the test, run the followings commands:
 
-npm run build && npm run seed
-npm run test
+ - npm run build && npm run seed && npm run start:dev
+ - npm run test
 
 # Github Link
 
@@ -33,6 +33,7 @@ https://github.com/Trinigch/Tech-Quiz-Test-Suite.git
 
 ##  The walkthrough video 
 
+https://drive.google.com/file/d/10i-JfoGaZdmQNQ7Hl1lcp5VxsqUMyZq5/view
 
 
 ## Credits

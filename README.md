@@ -1,4 +1,5 @@
-# Social-Network-API
+# Tech-Quiz-Test-Suite
+
 
 ## Description
 A fully functioning Tech Quiz application with Cypress for both component and end-to-end tests. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It allows users to take a quiz of ten random questions and view their final score.

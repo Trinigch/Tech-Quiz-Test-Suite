@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is React?",
+    "answers": [
+      { "text": "A library for building user interfaces", "isCorrect": true },
+      { "text": "A database", "isCorrect": false },
+      { "text": "An API", "isCorrect": false },
+      { "text": "None of the above", "isCorrect": false }
+    ]
+  }
+
+]

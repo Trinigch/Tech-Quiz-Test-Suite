@@ -33,7 +33,8 @@ https://github.com/Trinigch/Tech-Quiz-Test-Suite.git
 
 ##  The walkthrough video 
 
-https://drive.google.com/file/d/1ANbX41dydh8Ov5kithnhme2TYugzY03-/view
+https://drive.google.com/file/d/1do0LFBkbD9lDIjN5cP4JkaZr4sKIJJPw/view
+
 
 ## Credits
 
